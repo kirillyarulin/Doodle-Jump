@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\movingplatform.h(10): warning C4305: =: усечение из "double" к "float"
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\game.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\game.cpp(25): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\game.cpp(59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\game.cpp(65): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\game.cpp(68): warning C4715: Game::run: значение возвращается не при всех путях выполнения
+  Doodle Jump.vcxproj -> C:\Users\kirill\documents\visual studio 2015\Projects\Doodle Jump\Debug\Doodle Jump.exe
+  Doodle Jump.vcxproj -> C:\Users\kirill\documents\visual studio 2015\Projects\Doodle Jump\Debug\Doodle Jump.pdb (Full PDB)

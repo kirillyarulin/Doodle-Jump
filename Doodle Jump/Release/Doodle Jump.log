@@ -1,0 +1,18 @@
+﻿  Entity.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Game.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  GameOver.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Hero.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  main.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Menu.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  MovingPlatform.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  PlatformFactory.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Score.cpp
+c:\users\kirill\documents\visual studio 2015\projects\doodle jump\doodle jump\stdafx.h(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
